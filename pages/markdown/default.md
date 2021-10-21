@@ -2,6 +2,7 @@
 title: markdown
 recaptchacontact:
     enabled: false
+media_order: Capture.PNG
 ---
 
 
@@ -27,7 +28,7 @@ recaptchacontact:
 
 Paragraphs are really simple, You're seeing one right now, Just straight raw text with no markdown.
 
-### Markdown Semantic Text Elements
+### **Markdown Semantic Text Elements**
 
 **Bold** `**Bold**`
 
@@ -37,9 +38,9 @@ _Italic_ `_Italic_`
 
 `Inline Code` `` `Inline Code` ``
 
-### HTML Semantic Text Elements
+### **HTML Semantic Text Elements**
 
-<abbr>therg</abbr> `<abbr>`
+<abbr>I18N</abbr> `<abbr>`
 
 <cite>Citation</cite> `<cite>`
 
@@ -57,7 +58,7 @@ Text<sub>Subscripted</sub> `<sub>`
 
 <var>x = y + 2</var> `<var>`
 
-### Blockquote
+### **Blockquote**
 
 > The advance of technology is based on making it fit in so that you don't really even notice it,
 > so it's part of everyday life.
@@ -71,7 +72,7 @@ Text<sub>Subscripted</sub> `<sub>`
 > <cite>- Bill Gates</cite>
 ```
 
-### Unordered List
+### **Unordered List**
 
 * list item 1
 * list item 2
@@ -89,7 +90,7 @@ Text<sub>Subscripted</sub> `<sub>`
 * list item 3
 ```
 
-### Ordered List
+### **Ordered List**
 
 1. list item 1
 1. list item 2
@@ -107,7 +108,10 @@ Text<sub>Subscripted</sub> `<sub>`
 1. list item 3
 ```
 
-### Table
+### **Table**
+The cool epic CSS for tables is fucky, You can just override `table, th, td` in a style for the page to make your own, Below is a image as to what a table would look like default, Below that is what using the custom CSS with make a table look like **Remember that you need to add the `<style></style>` code to the page if you want the better looking one!**
+
+![Capture](Capture.PNG "Capture")
 
 | Name                        | Genre                         | Release date         |
 | :-------------------------- | :---------------------------: | -------------------: |
@@ -123,6 +127,47 @@ Text<sub>Subscripted</sub> `<sub>`
 | The Godfather               | Crime, Drama                  | 24 March 1972        |
 | Schindler's List            | Biography, Drama, History     | 4 February 1994      |
 | Se7en                       | Crime, Drama, Mystery         | 22 September 1995    |
+```
+```css
+    table{
+        border-collapse: collapse;
+        border-spacing: 0;
+        border: 2px;
+}
+    th {
+        color: #D5DDE5;
+        background: #1b1e24;
+        border-bottom-color: rgb(80,80,80);
+        border-bottom-style: solid;
+        border-bottom-width:3px;
+        border-left-color: rgb(80,80,80);
+        border-left-style: solid;
+        border-left-width:2px;
+        border-right-color: rgb(80,80,80);
+        border-right-style: solid;
+        border-right-width: 2px;
+        border-top-color: rgb(80,80,80);
+        border-top-style: solid;
+        border-top-width: 2px;
+        font-size: 18px;
+        font-weight: 100;
+        padding: 14px;
+        text-align: left;
+        text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+        vertical-align: middle;
+}
+
+    td {
+        border-style : solid;
+        border: 1px solid rgb(80,80,80);
+        background: #242627;
+        padding: 20px;
+        text-align: left;
+        vertical-align: middle;
+        font-weight: 300;
+        font-size: 18px;
+        text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+}
 ```
 
 ### Notices
