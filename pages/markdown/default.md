@@ -4,15 +4,11 @@ recaptchacontact:
     enabled: false
 ---
 
----
-title: 'Markdown 2'
----
+
 
 ! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
 
-The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new default theme for Grav built with [Spectre.css](https://picturepan2.github.io/spectre/) the lightweight, responsive and modern CSS framework. Spectre provides  basic styles for typography, elements, and a responsive layout system that utilizes best practices and consistent language design.
-
-### Headings
+### **Headings**
 
 # H1 Heading `40px`
 
@@ -26,18 +22,10 @@ The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new defaul
 
 ###### H6 Heading `16px`
 
-```html
-# H1 Heading
-# H1 Heading `40px`</small>`
 
-<span class="h1">H1 Heading</span>
-```
+### **Paragraphs**
 
-### Paragraphs
-
-Lorem ipsum dolor sit amet, consectetur [adipiscing elit. Praesent risus leo, dictum in vehicula sit amet](#), feugiat tempus tellus. Duis quis sodales risus. Etiam euismod ornare consequat.
-
-Climb leg rub face on everything give attitude nap all day for under the bed. Chase mice attack feet but rub face on everything hopped up on goofballs.
+Paragraphs are really simple, You're seeing one right now, Just straight raw text with no markdown.
 
 ### Markdown Semantic Text Elements
 
@@ -51,7 +39,7 @@ _Italic_ `_Italic_`
 
 ### HTML Semantic Text Elements
 
-<abbr>I18N</abbr> `<abbr>`
+<abbr>therg</abbr> `<abbr>`
 
 <cite>Citation</cite> `<cite>`
 
