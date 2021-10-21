@@ -12,6 +12,11 @@ metadata:
     description: 'Unofficial SCP:SL FAQ'
     'og:site_name': scpsl-faq.com
     theme-color: '#3BB9FF'
+login:
+    visibility_requires_access: true
+access:
+    admin.login: true
+    site: false
 ---
 
 # **FAQ | Resources <i class="fas fa-book"></i>**
