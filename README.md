@@ -1,4 +1,6 @@
 # SCP:SL FAQ Project
-
-## Public repo for scpsl-faq.com
 ***
+
+<p align="center">
+  <img src="https://scpsl-faq.com/cdn/grav-logo.png"/>
+</p>
