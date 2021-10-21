@@ -20,8 +20,6 @@ body_classes: 'title-center title-h1h2'
     <script async src="https://arc.io/widget.min.js#gh1zTNyW"></script>
 </head>
 
-test
-
 # ![rsz_1rsz_10ef66197f5c066883eb0515091a244dc-scary-pumpkin-face-6-by-vexels](rsz_1rsz_10ef66197f5c066883eb0515091a244dc-scary-pumpkin-face-6-by-vexels.png "rsz_1rsz_10ef66197f5c066883eb0515091a244dc-scary-pumpkin-face-6-by-vexels") **SCP:SL FAQ** ![rsz_1rsz_10ef66197f5c066883eb0515091a244dc-scary-pumpkin-face-6-by-vexels](rsz_1rsz_10ef66197f5c066883eb0515091a244dc-scary-pumpkin-face-6-by-vexels.png "rsz_1rsz_10ef66197f5c066883eb0515091a244dc-scary-pumpkin-face-6-by-vexels")
 
 
