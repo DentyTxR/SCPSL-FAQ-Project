@@ -201,6 +201,14 @@ This is <span style="color:red">red text</span> and this is <span style="color:#
 ```
 This is <span style="color:red">red text</span> and this is <span style="color:#000099">blue text</span>.
  
+ ### **Icons**
+ 
+## <i class="fas fa-book"></i> <i class="fas fa-wrench"></i>
+
+```html
+<i class="fas fa-book"></i> <i class="fas fa-wrench"></i>
+```
+We got a integration for FontAwesome so its really easy to use icons, You can see all there icons [here](https://fontawesome.com/v5.15/icons?d=gallery&p=2).
  
  <style>
     table{
