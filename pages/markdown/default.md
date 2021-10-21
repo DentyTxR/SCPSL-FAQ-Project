@@ -5,8 +5,6 @@ recaptchacontact:
 media_order: Capture.PNG
 ---
 
-
-
 ! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
 
 ### **Headings**
@@ -111,7 +109,11 @@ Text<sub>Subscripted</sub> `<sub>`
 ### **Table**
 The cool epic CSS for tables is fucky, You can just override `table, th, td` in a style for the page to make your own, Below is a image as to what a table would look like default, Below that is what using the custom CSS with make a table look like **Remember that you need to add the `<style></style>` code to the page if you want the better looking one!**
 
+#### Default table
+
 ![Capture](Capture.PNG "Capture")
+
+#### 	Cooler table
 
 | Name                        | Genre                         | Release date         |
 | :-------------------------- | :---------------------------: | -------------------: |
@@ -170,7 +172,7 @@ The cool epic CSS for tables is fucky, You can just override `table, th, td` in 
 }
 ```
 
-### Notices
+### **Notices**
 
 The notices styles are actually provided by the `markdown-notices` plugin but are useful enough to include here:
 
@@ -192,9 +194,52 @@ The notices styles are actually provided by the `markdown-notices` plugin but ar
 !!!! This is a success notification
 ```
 
-### Colored Text
+### **Colored Text**
 
 ```markdown
-This is {c:red}red text{/c} and this is {c:#000099}blue text{/c}.
+This is <span style="color:red">red text</span> and this is <span style="color:#000099">blue text</span>.
 ```
- This is {c:red}red text{/c} and this is {c:#000099}blue text{/c}.
+This is <span style="color:red">red text</span> and this is <span style="color:#000099">blue text</span>.
+ 
+ 
+ <style>
+    table{
+        border-collapse: collapse;
+        border-spacing: 0;
+        border: 2px;
+}
+    th {
+        color: #D5DDE5;
+        background: #1b1e24;
+        border-bottom-color: rgb(80,80,80);
+        border-bottom-style: solid;
+        border-bottom-width:3px;
+        border-left-color: rgb(80,80,80);
+        border-left-style: solid;
+        border-left-width:2px;
+        border-right-color: rgb(80,80,80);
+        border-right-style: solid;
+        border-right-width: 2px;
+        border-top-color: rgb(80,80,80);
+        border-top-style: solid;
+        border-top-width: 2px;
+        font-size: 18px;
+        font-weight: 100;
+        padding: 14px;
+        text-align: left;
+        text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+        vertical-align: middle;
+}
+
+    td {
+        border-style : solid;
+        border: 1px solid rgb(80,80,80);
+        background: #242627;
+        padding: 20px;
+        text-align: left;
+        vertical-align: middle;
+        font-weight: 300;
+        font-size: 18px;
+        text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
+}
+    </style>
