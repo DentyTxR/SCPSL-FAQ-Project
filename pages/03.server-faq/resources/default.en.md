@@ -16,7 +16,6 @@ login:
     visibility_requires_access: true
 access:
     admin.login: true
-    site: false
 ---
 
 # **FAQ | Resources <i class="fas fa-book"></i>**
