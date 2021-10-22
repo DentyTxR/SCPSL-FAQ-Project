@@ -32,24 +32,24 @@ access:
 |  0 |  Scp173 |  3000 (<span style="color:#6863d1">1500 HS</span>) |  SCP |
 |  1 |  ClassD |  100 |  CDP |
 |  2 |  Spectator |  100 |  RIP |
-|  3 |  Scp106 |  850 |  team |
-|  4 |  class name |  health |  team |
-|  5 |  class name |  health |  team |
-|  6 |  class name |  health |  team |
-|  7 |  class name |  health |  team |
-|  8 |  class name |  health |  team |
-|  9 |  class name |  health |  team |
-|  10 |  class name |  health |  team |
-|  11 |  class name |  health |  team |
-|  12 |  class name |  health |  team |
-|  13 |  class name |  health |  team |
-|  14 |  class name |  health |  team |
-|  15 |  class name |  health |  team |
-|  16 |  class name |  health |  team |
-|  17 |  class name |  health |  team |
-|  18 |  class name |  health |  team |
-|  19 |  class name |  health |  team |
-|  20 |  class name |  health |  team |
+|  3 |  Scp106 |  850 |  SCP |
+|  4 |  NtfSpecialist |  100 |  MTF |
+|  5 |  Scp049 |  2500 |  SCP |
+|  6 |  Scientist |  100 |  RSC |
+|  7 |  Scp079 |  100 |  SCP |
+|  8 |  ChaosConscript |  100 |  CHI |
+|  9 |  Scp096 |  2000 (<span style="color:#6863d1">1000 HS</span>) |  SCP |
+|  10 |  Scp0492 |  500 |  SCP |
+|  11 |  NtfSergeant |  100 |  MTF |
+|  12 |  NtfCaptain |  100 |  MTF |
+|  13 |  NtfPrivate |  100 |  MTF |
+|  14 |  Tutorial |  100 |  TUT |
+|  15 |  FacilityGuard |  100 |  MTF |
+|  16 |  Scp93953 |  1800 (<span style="color:#6863d1">600 HS</span>) |  SCP |
+|  17 |  Scp93989 |  1800 (<span style="color:#6863d1">600 HS</span>) |  SCP |
+|  18 |  ChaosRifleman |  100 |  CHI |
+|  19 |  ChaosRepressor |  100 |  CHI |
+|  20 |  ChaosMarauder |  100 |  CHI |
 
 
 
