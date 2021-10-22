@@ -74,9 +74,9 @@ access:
         border-top-color: rgb(80,80,80);
         border-top-style: solid;
         border-top-width: 2px;
-        font-size: 18px;
+        font-size: 15px;
         font-weight: 100;
-        padding: 14px;
+        padding: 11px;
         text-align: left;
         text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
         vertical-align: middle;
@@ -86,11 +86,11 @@ access:
         border-style : solid;
         border: 1px solid rgb(80,80,80);
         background: #242627;
-        padding: 20px;
+        padding: 15px;
         text-align: left;
         vertical-align: middle;
         font-weight: 300;
-        font-size: 18px;
+        font-size: 15px;
         text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
 }
     </style>
