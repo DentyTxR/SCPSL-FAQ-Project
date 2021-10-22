@@ -38,3 +38,18 @@ Happy that you'd asked, We are really really low on contributors to help maintai
 Our website uses Markdown to render pages, So you're going to need some simple about knowledge, We also have our own [Markdown documentation here](https://scpsl-faq.com/en/markdown) with more info, Then you can simply open a new github issue and add the suggestion there or create a pull request (Recommended)
 
 If you need help feel free to join our [Discord](https://discord.gg/qZ97fZjJeq).
+
+
+### Todo
+
+- [ ] Re-do user FAQ
+- [ ] Re-do server FAQ
+
+### In Progress
+
+- [ ] New improved meta data for all pages
+
+### Done
+
+- [x] Update github readme
+- [x] Updated markdown page
