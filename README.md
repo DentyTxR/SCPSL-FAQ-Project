@@ -40,7 +40,7 @@ Our website uses Markdown to render pages, So you're going to need some simple a
 If you need help feel free to join our [Discord](https://discord.gg/qZ97fZjJeq).
 
 
-### Todo
+### Denty's Todo list
 
 - [ ] Re-do user FAQ
 - [ ] Re-do server FAQ
