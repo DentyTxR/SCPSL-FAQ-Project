@@ -27,9 +27,9 @@ body_classes: 'title-center title-h1h2'
 
 ***
 
-! We moved from scpsl-faq.xyz to scpsl-faq.com!
+! We now have a [Twitter](https://twitter.com/scpslfaqProject) and [Github](https://github.com/DentyTxR/SCPSL-FAQ-Project) so you can help with our project easier!
 
-!!!! Having a issue with content not updating? Make sure to refresh your page!
+!!!! Having a issue with content not updating? Make sure to refresh your page! (Mostly a Firefox issue)
 
 ***
 
