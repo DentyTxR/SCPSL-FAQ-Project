@@ -52,6 +52,6 @@ The game is broken on Windows 7 and most likely Northwood will drop support for 
 
 The game is **not** supported on Linux.
 
-### **8. Game does not start, Just shows logo.**
+### **8. Game started but not loading!!!**
 
-Solution 1. Most likely SCP:SL was not able to create a <kbd>appdata</kbd> folder, Simply go to <kbd>\AppData\Roaming\</kbd> and make a folder called <kbd>SCP Secret Laboratory</kbd> and start the game back up.
+Just wait for the game to launch, This is a known issue with the AC. If you have a SSD we suggest that you install the game on that.
