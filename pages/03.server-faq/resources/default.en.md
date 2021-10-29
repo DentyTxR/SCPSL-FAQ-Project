@@ -24,6 +24,18 @@ access:
 
 ***
 
+## **Context**
+
+#### Teams
+
+- SCP = SCP
+- MTF = Mobile Task Force
+- CHI = Chaos Insurgency
+- RSC = Researcher
+- CDP = Class-D Personnel
+- RIP = Spectator
+- TUT = Tutorial
+
 ## **Role ID's**
 
 |  **RoleID**  |  **Role Name**  |  **Default Health**  |  **Team**  |
@@ -74,9 +86,9 @@ access:
         border-top-color: rgb(80,80,80);
         border-top-style: solid;
         border-top-width: 2px;
-        font-size: 15px;
+        font-size: 16px;
         font-weight: 100;
-        padding: 11px;
+        padding: 14px;
         text-align: left;
         text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
         vertical-align: middle;
@@ -86,11 +98,11 @@ access:
         border-style : solid;
         border: 1px solid rgb(80,80,80);
         background: #242627;
-        padding: 15px;
+        padding: 14px;
         text-align: left;
         vertical-align: middle;
         font-weight: 300;
-        font-size: 15px;
+        font-size: 16px;
         text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
 }
     </style>
