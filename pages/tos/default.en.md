@@ -32,7 +32,7 @@ This will let SCP:SL FAQ to terminate upon violations of any of these restrictio
 <br>_SCP:SL FAQ may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use._
 
 8. Your Privacy
-<br>_Please read our [Privacy Policy](https://scpsl-faq.xyz/en/privacy-policy)._
+<br>_Please read our [Privacy Policy](http://scpsl-faq.com/en/privacy-policy)._
 
 9. Governing Law
 <br>_Any claim related to SCP:SL FAQ's Website shall be governed by the laws of usa without regards to its conflict of law provisions._
