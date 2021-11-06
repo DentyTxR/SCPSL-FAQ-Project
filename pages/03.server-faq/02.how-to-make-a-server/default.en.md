@@ -26,7 +26,7 @@ metadata:
 Install the SteamCMD from [here](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip), This will allow you to install the server from steam, Once downloaded drag the SteamCMD executable into a new folder and run it. 
 Upon running it will proceed with the first time setup and you should see Loading Steam API...ok followed by <kbd>Steam></kbd>
 
-Make a new folder somewhere for your server, the recommendation is making a desktop folder and calling it something simple such as <mark>SCP:SL Server</mark>
+Make a new folder somewhere for your server, the recommendation is making a desktop folder and calling it something simple such as <mark>SCP:SL_Server</mark>
 
 Head to the SteamCMD and enter the following commands in order
 - <kbd>login anonymous</kbd>
