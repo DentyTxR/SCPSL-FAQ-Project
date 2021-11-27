@@ -29,8 +29,8 @@ Upon running it will proceed with the first time setup and you should see Loadin
 Make a new folder somewhere for your server, the recommendation is making a desktop folder and calling it something simple such as <mark>SCP:SL_Server</mark>
 
 Head to the SteamCMD and enter the following commands in order
-- <kbd>login anonymous</kbd>
 - <kbd>force_install_dir (your server directory where you want to install the server)</kbd>
+- <kbd>login anonymous</kbd>
 - <kbd>app_update 996560</kbd>
 
 Your server folder should now contain 17 new files and 5 new folders
@@ -60,9 +60,9 @@ That will create a folder called <mark>linux32</mark> and a <mark>steamcmd.sh</m
 
 Now that you have SteamCMD install you will need to type <kbd>steamcmd</kbd>, If you had the issue as above you will need to type <kbd>./steamcmd</kbd>.
 
-Now that you are inside of SteamCMD you will first need to login, Simply type <kbd>login anonymous</kbd>.
+Now that you are inside of SteamCMD you will first need to set the install directory for the SCP Server, Simply type <kbd>force_install_dir (your server directory)</kbd> replacing <mark>(your server directory)</mark> with the folder of where you want the server installed
 
-Now you will need to set the install directory for the SCP Server, Simply type <kbd>force_install_dir (your server directory)</kbd> replacing <mark>(your server directory)</mark> with the folder of where you want the server installed
+After setting the install directory you will need to login as a anonymous user to download the server, Simply type <kbd>login anonymous</kbd>.
 
 Now you can finally install the SCP Server, Yet again simply type <kbd>app_update 996560</kbd>.
 
