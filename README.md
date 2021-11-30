@@ -40,10 +40,12 @@ Our website uses Markdown to render pages, So you're going to need some simple a
 If you need help feel free to join our [Discord](https://discord.gg/qZ97fZjJeq).
 
 
-### Denty's Todo list
+### Todo list
 
 - [ ] Re-do user FAQ
 - [ ] Re-do server FAQ
+- [ ] Re-do server config page due to gameplay config being updated
+- [ ] Add new 11.1 stuff, Such as new toy command and args for it (PM Denty if you need the args)
 
 ### In Progress
 
