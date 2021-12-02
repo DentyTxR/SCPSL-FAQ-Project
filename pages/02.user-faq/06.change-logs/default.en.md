@@ -1,6 +1,5 @@
 ---
-title: Change Logs
-media_order:
+title: 'Change Logs'
 published: true
 metadata:
     'og:url': 'https://scpsl-faq.com/en/user-faq/Change Logs'
@@ -14,7 +13,6 @@ metadata:
     description: 'Unofficial SCP:SL FAQ'
     'og:site_name': scpsl-faq.com
     theme-color: '#3BB9FF'
-visible: true
 ---
 
 # **User FAQ | Official SCP:SL Change Logs**
