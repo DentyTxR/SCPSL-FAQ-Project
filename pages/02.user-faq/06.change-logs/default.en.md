@@ -13,6 +13,7 @@ metadata:
     description: 'Unofficial SCP:SL FAQ'
     'og:site_name': scpsl-faq.com
     theme-color: '#3BB9FF'
+visible: false
 ---
 
 # **User FAQ | Official SCP:SL Change Logs**
