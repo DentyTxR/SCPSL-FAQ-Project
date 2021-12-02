@@ -12,7 +12,7 @@ metadata:
     'twitter:title': 'FAQ | SCP:SL FAQ'
     'article:author': 'SCP: Secret Laboratory Unofficial FAQ'
     description: 'Unofficial SCP:SL FAQ'
-    'og:site_name': scpsl-faq.xyz
+    'og:site_name': scpsl-faq.com
     theme-color: '#3BB9FF'
 visible: true
 ---
