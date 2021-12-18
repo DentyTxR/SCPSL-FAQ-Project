@@ -10,8 +10,8 @@ title: 'Christmas Update'
 
 ## **Items**
 
-|  **ItemID**  |  **Item Name**  | 
-|  :-----        |  :-----        |
+|  **ItemID**  |  **Item Name**  | **Notes**  | 
+|  :-----        |  :-----        |  :-----        |
 |  44 |  SCP244a | * New SCP
 |  45 |  SCP244b | * New SCP
 |  46 |  Coal | * Returning Item
