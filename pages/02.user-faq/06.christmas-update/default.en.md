@@ -1,5 +1,17 @@
 ---
 title: 'Christmas Update'
+metadata:
+    'og:url': 'https://scpsl-faq.com/en/user-faq/christmas-update'
+    'og:type': website
+    'og:title': 'Christmas Update | SCP:SL FAQ'
+    'og:author': 'SCP: Secret Laboratory Unofficial FAQ'
+    'og:image': 'https://scpsl-faq.com/user/themes/quarklight/images/favicon.png'
+    'twitter:card': summary_large_image
+    'twitter:title': 'Christmas Update | SCP:SL FAQ'
+    'article:author': 'SCP: Secret Laboratory Unofficial FAQ'
+    description: 'Unofficial SCP:SL FAQ'
+    'og:site_name': scpsl-faq.com
+    theme-color: '#3BB9FF'
 ---
 
 # SCP:SL 11.1.1 | Christmas Update
