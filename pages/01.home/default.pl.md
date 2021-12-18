@@ -18,7 +18,7 @@ body_classes: 'title-center title-h1h2'
     <script async src="https://arc.io/widget.min.js#gh1zTNyW"></script>
 </head>
 
-# **SCP:SL FAQ**
+# ![160184032047313160](160184032047313160.png "160184032047313160") **SCP:SL FAQ** ![160184032047313160](160184032047313160.png "160184032047313160")
 
 #### [center]Witaj na nieoficjalnym FAQ do gry SCP: Secret Laboratory![/center]
 
