@@ -5,7 +5,7 @@ title: 'Christmas Update'
 # SCP:SL 11.1.1 | Christmas Update
 
 ### Happy holidays everyone! This FAQ section has been created for anyone interested in new stuff added to 11.1.1 (aka the Christmas update).
-### As of now the client update has not come out, But I was able to find some new items added to this version, They will be below.
+### While we wait for the client update to release for now you can see new items that I found, Don't worry this page will be updated when we get more info.
 
 
 ## **Items**
