@@ -15,7 +15,7 @@ metadata:
 body_classes: 'title-center title-h1h2'
 ---
 
-# **SCP:SL FAQ**
+# ![160184032047313160](160184032047313160.png "160184032047313160") **SCP:SL FAQ** ![160184032047313160](160184032047313160.png "160184032047313160")
 
 #### [center]Tervettuloa Epäviralliselle FAQ SCP: Secret Laboratorylle Sivustoon![/center]
 
