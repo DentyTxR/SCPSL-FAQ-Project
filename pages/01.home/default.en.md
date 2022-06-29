@@ -27,7 +27,7 @@ body_classes: 'title-center title-h1h2'
 
 ***
 
-! We now have a [Twitter](https://twitter.com/scpslfaqProject) and [Github](https://github.com/DentyTxR/SCPSL-FAQ-Project) so you can help with our project easier!
+! We now have a [Github](https://github.com/DentyTxR/SCPSL-FAQ-Project) so you can help with our project easier!
 
 !!!! Having a issue with content not updating? Make sure to refresh your page! (Mostly a Firefox issue)
 
