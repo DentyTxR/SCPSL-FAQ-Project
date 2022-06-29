@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\pages",
+    "\\pages\\02.user-faq",
+    "\\pages\\02.user-faq\\04.FAQ"
   ],
-  "SelectedNode": "\\C:\\Users\\DentyMods\\Source\\Repos\\DentyTxR\\SCPSL-FAQ-Project",
+  "SelectedNode": "\\pages\\02.user-faq\\04.FAQ\\default.en.md",
   "PreviewInSolutionExplorer": false
 }
