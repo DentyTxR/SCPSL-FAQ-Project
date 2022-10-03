@@ -24,7 +24,13 @@ visible: true
 
 # **User | FAQ**
 
-### **1. This server requires authentication from central server.**
+
+### **"Publisher/ASN ban or Spoofer Detected" error/Global ban**
+
+Simply vist the site [here](https://steamcommunity.com/app/700330/discussions/0/3061870378081558108/) and **READ**, If you have a global ban you can try to appeal it [here](https://support.scpslgame.com/ban-appeal)
+
+
+### **This server requires authentication from central server.**
 #### This usually happens when your authentication token which is used to join a server gets expired or just didn't get assigned to you, Below are solutions.
 Solution 1. Restart the Game or Steam, Or open Task Manager and close all the SCP:SL processors.
     
@@ -37,14 +43,15 @@ Solution 3. (This for steam) Change the launch game option by doing a right clic
 Solution 4. If you still can not fix the issue check to see if the authentication servers are down by [clicking here](https://status.scpslgame.com/).
 
 
-### **2. Server List has an invalid signature.**
+
+### **Server List has an invalid signature.**
 ​
 Solution 1. Restart the game/PC
 ​
 ​
 ​
 ​
-### **3. No Translation**
+### **No Translation**
 ​
 Solution 1. Remove translation files from <kbd>Steam\steamapps\common\SCP Secret Laboratory\Translations</kbd> and verify your files.
 
