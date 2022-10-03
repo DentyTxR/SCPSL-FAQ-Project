@@ -44,13 +44,8 @@ If you need help feel free to join our [Discord](https://discord.gg/qZ97fZjJeq).
 
 - [ ] Re-do server FAQ
 - [ ] Re-do server config page due to gameplay config being updated
-
-### In Progress
-
 - [ ] Re-do user FAQ
 - [ ] New improved meta data for all pages
 
-### Done
+### In Progress
 
-- [x] Update github readme
-- [x] Updated markdown page
