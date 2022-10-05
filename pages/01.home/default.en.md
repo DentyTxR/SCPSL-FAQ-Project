@@ -27,7 +27,7 @@ body_classes: 'title-center title-h1h2'
 
 ***
 
-!! (As of 10/4/2022) For the past year this project has been dead since no one wants to help with it (including myself), Starting now I plan on keeping this project alive *again* alone *again*, If you want to help with the project you can join our [Discord](https://discord.gg/qZ97fZjJeq) and ask Denty about it. Thank you!
+! (As of 10/4/2022) For the past year this project has been dead since no one wants to help with it (including myself), Starting now I plan on keeping this project alive *again* alone *again*, If you want to help with the project you can join our [Discord](https://discord.gg/qZ97fZjJeq) and ask Denty about it. Thank you!
 
 !!! We now have a [Github](https://github.com/DentyTxR/SCPSL-FAQ-Project) so you can help with our project easier!
 
