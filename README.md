@@ -48,4 +48,3 @@ If you need help feel free to join our [Discord](https://discord.gg/qZ97fZjJeq).
 - [ ] New improved meta data for all pages
 
 ### In Progress
-
