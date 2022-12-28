@@ -20,14 +20,14 @@ body_classes: 'title-center title-h1h2'
     <script async src="https://arc.io/widget.min.js#gh1zTNyW"></script>
 </head>
 
-# ![spooky](spooky.png "spooky") **SCP:SL FAQ** ![spooky](spooky.png "spooky")
+# **SCP:SL FAQ**
 
 
 #### [center]Welcome To The Unofficial FAQ For SCP: Secret Laboratory![/center]
 
 ***
 
-! (As of 10/4/2022) For the past year this project has been dead since no one wants to help with it (including myself), Starting now I plan on keeping this project alive *again* alone *again*, If you want to help with the project you can join our [Discord](https://discord.gg/qZ97fZjJeq) and ask Denty about it. Thank you!
+! (As of 12/28/2022) This project is pretty much dead, I (Denty) am the only person working on it and I do not have the time and sanity to work on this alone, If you wish to help with the project join our [Discord](https://discord.gg/qZ97fZjJeq)
 
 !!! We now have a [Github](https://github.com/DentyTxR/SCPSL-FAQ-Project) so you can help with our project easier!
 
@@ -38,7 +38,7 @@ body_classes: 'title-center title-h1h2'
 ### Contributors 
 
 > - Denty | Project Founder
-> - Wafel | Project Head Leader
+> - Wafel | Ex Project Head Leader
 > - Emars118 | Patreon Supporter
 > - mikey | Patreon Supporter
 > - Pint | Patreon Supporter
