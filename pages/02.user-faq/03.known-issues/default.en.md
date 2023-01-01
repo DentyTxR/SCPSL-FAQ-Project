@@ -51,19 +51,10 @@ Just wait for the game to launch, This is a known issue with the AC. If you have
 This is usually caused by having a bad internet connection, If your internet speeds are fine and it happens on all servers please open a ticket in the official SCP:SL Discord [here](discord.gg/scpsl)
 
 
+#### **Stuck on connecting to central servers/No Servers Available**
+Try disabling all unused network adapters by going to Control Panel, clicking on "Network and Internet", click on "Network and Sharing Center", and on the left hand side you will see "Change adapter settings", click on that and it will bring you to a list of network adapters, Right click on any unused ones (Ex. VMWare, VirtualBox, etc.) and hit disable.
 
 
-#### **I am getting "Error Unauthorized. Please authenticate in-game before requesting servers list"**
-Inside of the client console <kbd>(`) or (~)</kbd> type <kbd>ar</kbd>, If that does not solve the issue try restarting your PC/steam
-
-
-#### **I keep getting Virtualalloc failed/Virtualalloc remapping failed when I try to launch the game!**
-This isn't a issue with SCP:SL itself but an issue with your memory/RAM, This error usually pops-up when you do not have enough memory left to run the game, Please close out other applications to free up memory then try to launch the game again, If the issue continues to persist restart your PC.
-
-
-#### **I keep getting "Error, please verify the game's integrity (file name)"**
-* Solution 1. Try verifying the game's integrity or deleting said file in the game files then verify the integrity of the game (Steam\steamapps\common\SCP Secret Laboratory). 
-* Solution 2. Make sure your antivirus OR any other program is not messing with the game files and try to exclude the game folder from the said program. 
 
 
 ##### **Game keeps crashing on Windows 7**
