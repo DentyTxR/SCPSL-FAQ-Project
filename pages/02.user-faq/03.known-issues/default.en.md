@@ -47,9 +47,14 @@ Just wait for the game to launch, This is a known issue with the AC. If you have
     * If that does not work, Please replace <kbd>-httpproxy</kbd> with <kbd>--unitywebrequest</kbd>. If that doesnt work replace it with <kbd>-unitywebrequestdispatcher</kbd>
 
 
-#### **Connection lost (Timed out)**
-This is usually caused by having a bad internet connection, If your internet speeds are fine and it happens on all servers please open a ticket in the official SCP:SL Discord [here](discord.gg/scpsl)
 
+
+#### **Stuck on connecting to central servers/No Servers Available**
+Try disabling all unused network adapters by going to Control Panel, clicking on "Network and Internet", click on "Network and Sharing Center", and on the left hand side you will see "Change adapter settings", click on that and it will bring you to a list of network adapters, Right click on any unused ones (Ex. VMWare, VirtualBox, etc.) and hit disable.
+
+
+#### **I am getting "Error Unauthorized. Please authenticate in-game before requesting servers list"**
+Inside of the client console <kbd>(`) or (~)</kbd> type <kbd>ar</kbd>, If that does not solve the issue try restarting your PC/steam
 
 
 #### **I keep getting Virtualalloc failed/Virtualalloc remapping failed when I try to launch the game!**
