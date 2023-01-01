@@ -51,8 +51,6 @@ Just wait for the game to launch, This is a known issue with the AC. If you have
 This is usually caused by having a bad internet connection, If your internet speeds are fine and it happens on all servers please open a ticket in the official SCP:SL Discord [here](discord.gg/scpsl)
 
 
-#### **Stuck on connecting to central servers/No Servers Available**
-Try disabling all unused network adapters by going to Control Panel, clicking on "Network and Internet", click on "Network and Sharing Center", and on the left hand side you will see "Change adapter settings", click on that and it will bring you to a list of network adapters, Right click on any unused ones (Ex. VMWare, VirtualBox, etc.) and hit disable.
 
 
 #### **I am getting "Error Unauthorized. Please authenticate in-game before requesting servers list"**
