@@ -17,7 +17,9 @@ metadata:
 <head>
     <script async src="https://arc.io/widget.min.js#fcrqEmJg"></script>
 </head>
+
 ## User FAQ | Known Issues
+
 ***
 
 !!! If the solutions here do not work please join the official SCP:SL Discord [here](discord.gg/scpsl) and ask the tech support
@@ -53,6 +55,8 @@ This is usually caused by having a bad internet connection, If your internet spe
 Try disabling all unused network adapters by going to Control Panel, clicking on "Network and Internet", click on "Network and Sharing Center", and on the left hand side you will see "Change adapter settings", click on that and it will bring you to a list of network adapters, Right click on any unused ones (Ex. VMWare, VirtualBox, etc.) and hit disable.
 
 
+#### **I am getting "Error Unauthorized. Please authenticate in-game before requesting servers list"**
+Inside of the client console <kbd>(`) or (~)</kbd> type <kbd>ar</kbd>, If that does not solve the issue try restarting your PC/steam
 
 
 #### **I keep getting Virtualalloc failed/Virtualalloc remapping failed when I try to launch the game!**
