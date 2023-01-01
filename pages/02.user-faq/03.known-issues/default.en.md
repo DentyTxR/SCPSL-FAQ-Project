@@ -42,7 +42,7 @@ Just wait for the game to launch, This is a known issue with the AC. If you have
 
 
 #### **“Client failed to authenticate in time”**
- * Solution 1. Inside of the client console <kbd>(`) or (~)</kbd> and type the command <kbd>ar</kbd>
+ * Solution 1. Inside of the client console <kbd>` or ~</kbd> and type the command <kbd>ar</kbd>
  * Solution 2. In the games launch options (Steam->library->right-click SCP:SL->properties) and add <kbd>-httpproxy</kbd>
  * If that does not work, Please replace <kbd>-httpproxy</kbd> with <kbd>--unitywebrequest</kbd>, If that doesn't work replace it with <kbd>-unitywebrequestdispatcher</kbd>
 
