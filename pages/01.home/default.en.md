@@ -27,7 +27,7 @@ body_classes: 'title-center title-h1h2'
 
 ***
 
-! (As of 12/28/2022) This project is pretty much dead, I (Denty) am the only person working on it and I do not have the time and sanity to work on this alone, If you wish to help with the project join our [Discord](https://discord.gg/qZ97fZjJeq)
+! (As of 12/28/2022) This project is pretty dead, I (Denty) am the only person working on it and I do not have the time and sanity to work on this alone, If you wish to help with the project join our [Discord](https://discord.gg/qZ97fZjJeq)
 
 !!! We now have a [Github](https://github.com/DentyTxR/SCPSL-FAQ-Project) so you can help with our project easier!
 
@@ -46,6 +46,6 @@ body_classes: 'title-center title-h1h2'
 
 
 
-##### Want to support our project? Goto [here](https://www.patreon.com/scpslfaqproject) to support us so we can keep this project rockin!
+##### Want to support our project? Go [here](https://www.patreon.com/scpslfaqproject) to support us so we can keep this project rockin!
 
-!!!! If you have any questions or concerns or find a typo you can either join our discord server <span style="color:#7289DA"><i class="fab fa-discord"></i></span> [here](https://discord.gg/qZ97fZjJeq) or send an email at scpsl.faq@gmail.com
+!!!! If you have any questions or concerns or find a typo you can either join our discord server <span style="color:#7289DA"><i class="fab fa-discord"></i></span> [here](https://discord.gg/qZ97fZjJeq) or send an email at scpsl.faq@gmail.com. Note: This is a fan-made webite, We do NOT work with Northwood
