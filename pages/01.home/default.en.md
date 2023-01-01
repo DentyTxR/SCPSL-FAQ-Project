@@ -27,7 +27,7 @@ body_classes: 'title-center title-h1h2'
 
 ***
 
-! (As of 12/28/2022) This project is pretty dead, I (Denty) am the only person working on it and I do not have the time and sanity to work on this alone, If you wish to help with the project join our [Discord](https://discord.gg/qZ97fZjJeq)
+!!! If the solutions here do not work please join the official SCP:SL Discord [here](discord.gg/scpsl) and ask the tech support
 
 !!! We now have a [Github](https://github.com/DentyTxR/SCPSL-FAQ-Project) so you can help with our project easier!
 
