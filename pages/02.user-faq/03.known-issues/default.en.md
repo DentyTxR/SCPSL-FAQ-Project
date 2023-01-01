@@ -50,5 +50,3 @@ The game is **not** supported on Linux.
 #### **Game started but not loading!!!**
 
 Just wait for the game to launch, This is a known issue with the AC. If you have a SSD we suggest that you install the game on that.
-
-[TOC]
