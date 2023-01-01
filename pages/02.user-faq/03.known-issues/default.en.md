@@ -17,7 +17,6 @@ metadata:
 <head>
     <script async src="https://arc.io/widget.min.js#fcrqEmJg"></script>
 </head>
-[TOC]
 ## User FAQ | Known Issues
 
 
