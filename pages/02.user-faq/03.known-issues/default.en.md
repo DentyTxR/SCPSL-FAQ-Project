@@ -55,10 +55,12 @@ This is usually caused by having a bad internet connection, If your internet spe
 Try disabling all unused network adapters by going to Control Panel, clicking on "Network and Internet", click on "Network and Sharing Center", and on the left hand side you will see "Change adapter settings", click on that and it will bring you to a list of network adapters, Right click on any unused ones (Ex. VMWare, VirtualBox, etc.) and hit disable.
 
 
+#### **I am getting "Error Unauthorized. Please authenticate in-game before requesting servers list"**
+Inside of the client console <kbd>(`) or (~)</kbd> type <kbd>ar</kbd>, If that does not solve the issue try restarting your PC/steam
 
-##### **Game keeps crashing on Windows 7**
-Windows 7 is unsupported, Please upgrade to 8.1 or 10.
 
 
-##### **The game does not work on Linux**
-The game is **not** supported on Linux.
+#### **I keep getting "Error, please verify the game's integrity (file name)"**
+* Solution 1. Try verifying the game's integrity or deleting said file in the game files then verify the integrity of the game (Steam\steamapps\common\SCP Secret Laboratory). 
+* Solution 2. Make sure your antivirus OR any other program is not messing with the game files and try to exclude the game folder from the said program. 
+
