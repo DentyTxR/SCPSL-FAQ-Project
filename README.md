@@ -15,7 +15,7 @@
     <a href="https://github.com/DentyTxR/SCPSL-FAQ-Project/issues">
       <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/DentyTxR/SCPSL-FAQ-Project">
     </a>
-    <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2022">
+    <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2023">
   </p>
 </div>
 
