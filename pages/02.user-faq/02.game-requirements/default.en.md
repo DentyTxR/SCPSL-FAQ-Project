@@ -17,8 +17,8 @@ metadata:
 <head>
     <script async src="https://arc.io/widget.min.js#fcrqEmJg"></script>
 </head>
-
-# **User FAQ | Game Requirements**
+## User FAQ | Game Requirements
+***
 
 ! Remember that even if you pass minimum requirements, there's always a chance your game might not run smoothly or launch.
 ## **SYSTEM REQUIREMENTS FOR 12.0.0 (STABLE VERSION)**
