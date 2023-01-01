@@ -28,7 +28,7 @@ Here we are storing our live pages that get automaticlly synced to the website.
 Just a small group that wanted to do a fun project, This project was originally created by me (Denty) and Wafel. Surprisingly everything worked out and I launched my first major project! Also gotta point out that our website isn't a official FAQ for the game, Just fan made.
 
 ### Whats The Point Of This?
-When I was a "Lowly and Pitiful TA" (Still am) there wasn't any actual good sources of FAQ related stuff for [SCP: Secret Laboratory](https://scpslgame.com/), So I wanted to make one! Our website contains **a lot** of information for the game regarding server stuff and user stuff such as common issues, FAQ entries for both user and server, Massive documentation for server configuration, Plugins, etc. You could say there's already websites that have FAQ related stuff such as the official SCP:SL website and the SCP:SL Wiki but let's be real, They suck.
+When I was a "Lowly and Pitiful TA" there wasn't any actual good sources of FAQ related stuff for [SCP: Secret Laboratory](https://scpslgame.com/), So I wanted to make one! Our website contains **a lot** of information for the game regarding server stuff and user stuff such as common issues, FAQ entries for both user and server, Massive documentation for server configuration, Plugins, etc. You could say there's already websites that have FAQ related stuff such as the official SCP:SL website and the SCP:SL Wiki but let's be real, They suck.
 
 
 
@@ -48,3 +48,5 @@ If you need help feel free to join our [Discord](https://discord.gg/qZ97fZjJeq).
 - [ ] New improved meta data for all pages
 
 ### In Progress
+- [ ] Back-end changes
+- [ ] QoL site and rendering changes
