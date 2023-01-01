@@ -17,7 +17,7 @@ metadata:
 <head>
     <script async src="https://arc.io/widget.min.js#fcrqEmJg"></script>
 </head>
-## User FAQ | Known Issues
+### User FAQ | Known Issues
 
 
 ##### **Server list response has expired! Set correct time and timezone on your PC.**
