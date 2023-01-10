@@ -23,9 +23,12 @@ metadata:
 ### Before doing anything you need to port forward for both Windows 10 and Linux, Please Goggle it.
 
 ## Windows 10
-### Solution 1 (Dedicated server tool): Open Steam and navigate to Library and search "SCP: Secret Laboratory Dedicated Server" and install it, After installing it you can open it. Boom, That easy.
+### Solution 1 (Dedicated server tool)
+Open Steam and navigate to Library and search "SCP: Secret Laboratory Dedicated Server" and install it, After installing it you can open it. Boom, That easy.
 
-### Solution 2 (Manual install): Install the SteamCMD from [here](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip), This will allow you to install the server from steam, Once downloaded drag the SteamCMD executable into a new folder and run it. 
+### Solution 2 (Manual install)
+
+Install the SteamCMD from [here](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip), This will allow you to install the server from steam, Once downloaded drag the SteamCMD executable into a new folder and run it. 
 Upon running it will proceed with the first time setup and you should see Loading Steam API...ok followed by <kbd>Steam></kbd>
 
 Make a new folder somewhere for your server, the recommendation is making a desktop folder and calling it something simple such as <mark>SCP:SL_Server</mark>
