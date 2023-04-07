@@ -15,10 +15,11 @@
     <a href="https://github.com/DentyTxR/SCPSL-FAQ-Project/issues">
       <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/DentyTxR/SCPSL-FAQ-Project">
     </a>
-    <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2023">
+    <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2023">
   </p>
 </div>
 
+# I've lost interest and people dont use the website anymore so I stopped this project
 
 ## SCP:SL FAQ Project
 Welcome to the Github for scpsl-faq.com!
